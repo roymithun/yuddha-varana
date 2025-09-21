@@ -8,7 +8,7 @@
 | Credential Stuffing      | Uses stolen credentials to brute-force logins                                   | Account takeover, data breach              | Multiple failed logins, geo-IP anomalies       |
 | Proxy Abuse              | Botnet nodes act as anonymizing proxies for malicious traffic                   | Obfuscates attacker identity               | Unusual outbound traffic, proxy chaining       |
 | Malware Distribution     | Botnet spreads ransomware or spyware via phishing or drive-by downloads         | Data exfiltration, ransom demands          | Suspicious file hashes, outbound C2 traffic    |
-| Click Fraud              | Bots simulate ad clicks to drain marketing budgets                              | Financial loss, skewed analytics           | High click-through rate, low conversion        |
+| [Click Fraud](https://www.clickguard.com/what-is-click-fraud/)              | Bots simulate ad clicks to drain marketing budgets                              | Financial loss, skewed analytics           | High click-through rate, low conversion        |
 
 ---
 
